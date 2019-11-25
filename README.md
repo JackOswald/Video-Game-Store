@@ -1,4 +1,4 @@
-# My Video Game Store
+# Video Game Store
 
 A video game store website created to view and purchase games.
 
