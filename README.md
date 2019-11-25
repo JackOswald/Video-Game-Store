@@ -10,6 +10,8 @@ Visit: https://jacks-video-game-store.netlify.com/
 
 * View available video games in the store page
 * Hover over a game to increase the size of the game
+* Hover over a game and add it to your cart
+* Add a game to your cart and a modal will pop up confirming you have added the item to your cart
 * Click on a specific game to view more details about it
 
 # Still To Implement
