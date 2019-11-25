@@ -1,0 +1,32 @@
+:root {
+  --white: #ffffff;
+  --black: #03040c;
+  --grey: rgba(238, 238, 238, 0.411);
+  --yellow: #f5e507;
+  --darkBlue: #020a75;
+  --lightBlue: #0a93e2;
+  --darkRed: #8d0101;
+  --lightRed: #e22e2e;
+  --lightGreen: #33dd08;
+  --darkGreen: #1e5002;
+}
+
+body {
+  font-family: "Oswald", sans-serif !important;
+  background: var(--white) !important;
+  color: var(--black) !important;
+}
+
+.text-title {
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+
+.text-darkBlue {
+  color: var(--darkBlue);
+}
+
+.text-lightBlue {
+  color: var(--lightBlue);
+}
