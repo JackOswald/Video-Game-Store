@@ -1,6 +1,6 @@
 # My Video Game Store
 
-A video game store website created to mimic online ecommerce stores.
+A video game store website created to view and purchase games.
 
 # How To Run
 
