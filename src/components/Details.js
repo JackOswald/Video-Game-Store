@@ -36,13 +36,13 @@ export default class Details extends Component {
                     Developer:{" "}
                     <span className="text-uppercase">{developer}</span>
                   </h4>
-                  <h4 className="text-blue">
+                  <h4 className="text-lightBlue">
                     <strong>
-                      Price : <span>£</span> {price}
+                      Price: <span>£</span>{price}
                     </strong>
                   </h4>
-                  <p className="text-capitalize font-weight-bold mt-4 mb-0">
-                    Description:{" "}
+                  <p className="text-capitalize font-weight-bold mt-5 mb-0">
+                    Description{" "}
                   </p>
                   <p className="text-muted lead">{info}</p>
                   {/* Buttons */}
@@ -54,9 +54,10 @@ export default class Details extends Component {
                       disabled={inCart ? true : false}
                       onClick={() => {
                         value.addToCart(id);
+                        value.openModal(id);
                       }}
                     >
-                      {inCart ? "In Cart" : "Buy"}
+                      {inCart ? "In Cart" : "Purchase"}
                     </ButtonContainer>
                   </div>
                 </div>

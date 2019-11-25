@@ -90,7 +90,7 @@ export const storeProducts = [
     price: 9.99,
     developer: "Supermassive Games",
     info:
-      "When eight friends become trapped on a remote mountain getaway gone wrong, things quickly turn sinister and they start to suspect they arent alone. Gripped by fear and with tensions in the group running high, youll be forced to make snap decisions that could mean life or death for everyone involved. Every choice you make while playing as each of the eight friends even the seemingly trivial ones will carve out your own unique story. With spine-tingling performances from a Hollywood cast including Hayden Panettiere (Heroes, Nashville) brought to life with the power of PlayStation 4 your actions alone will decide who survives Until Dawn",
+      "When eight friends become trapped on a remote mountain getaway gone wrong, things quickly turn sinister and they start to suspect they arent alone. Gripped by fear and with tensions in the group running high, youll be forced to make snap decisions that could mean life or death for everyone involved. Every choice you make while playing as each of the eight friends even the seemingly trivial ones will carve out your own unique story. With spine-tingling performances from a Hollywood cast including Hayden Panettiere (Heroes, Nashville) brought to life with the power of PlayStation 4 your actions alone will decide who survives Until Dawn.",
     inCart: false,
     count: 0,
     total: 0
