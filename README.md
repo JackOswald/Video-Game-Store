@@ -25,7 +25,7 @@ Visit: https://jacks-video-game-store.netlify.com/
 * React JS (https://github.com/facebook/create-react-app)
 * styled-components (https://www.styled-components.com/)
 * prop-types (https://www.npmjs.com/package/prop-types)
-* React Router DOM (https://reacttraining.com/react-router/web/guides/quick-start)
+* React Router DOM (https://github.com/ReactTraining/react-router / https://reacttraining.com/react-router/web/guides/quick-start)
 * Navbar (https://getbootstrap.com/docs/4.3/components/navbar/)
 * Bootstrap (https://getbootstrap.com/)
 * Font Awesome (https://fontawesome.com/)
