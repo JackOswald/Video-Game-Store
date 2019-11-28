@@ -13,14 +13,13 @@ Visit: https://jacks-video-game-store.netlify.com/
 * Hover over a game and add it to your cart
 * Add a game to your cart and a modal will pop up confirming you have added the item to your cart
 * Click on a specific game to view more details about it
+* View your cart with all of your items added to it
+* Remove a single item from the cart
+* Clear the whole cart
+* Add or subtract an item in your cart
+* Display the total value of all items in your cart
 
-# Still To Implement
-
-* Adding products to cart
-* View your current products on your cart
-* Pay for your items using Paypal (sandbox)
-
-# Frameworks (and others) Used
+# Frameworks and Libraries Used
 
 * React JS (https://github.com/facebook/create-react-app)
 * styled-components (https://www.styled-components.com/)
