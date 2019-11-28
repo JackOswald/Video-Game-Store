@@ -27,6 +27,9 @@ Desktop view:
 <img src="github_images/Image%201.png" width="1000">
 
 Mobile view:
+
+
+
 <img src="github_images/Image%208.png" width="750">
 
 The add to cart button on hover: 
@@ -35,7 +38,12 @@ The add to cart button on hover:
 Modal pop up when add to cart button is clicked:
 <img src="github_images/Image%203.png" width="750">
 
+
 Details page:
+
+
+
+
 <img src="github_images/Image%205.png" width="750">
 
 Cart page (desktop view):
