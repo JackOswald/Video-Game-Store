@@ -17,13 +17,16 @@ export default class Product extends Component {
                   className="image-container p-5"
                   onClick={() => value.handleDetail(id)}
                 >
+                  {/* Link to Details Page */}
                   <Link to="/details">
+                    {/* Image */}
                     <img
                       src={image}
                       alt="product"
                       className="card-img-top"
                     ></img>
                   </Link>
+                  {/* Cart Button */}
                   <button
                     className="cart-button"
                     disabled={inCart ? true : false}
