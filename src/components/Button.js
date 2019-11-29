@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-// styled components allows us to reuse this button anywhere in the project
+// Styled Components allows us to reuse this button anywhere in the project
 
 export const ButtonContainer = styled.button `
   text-transform: capitalize;

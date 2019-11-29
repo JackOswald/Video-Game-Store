@@ -9,7 +9,7 @@ export default function CartTotal({ value }) {
       <div className="container float-right">
         <div className="row">
           <div className="col-10 text-right text-capitalize">
-            <Link to="/">
+            <Link to="/ShoppingCart">
               <button
                 className="btn btn-outline-danger text-uppercase mb-3 px-5"
                 type="button"

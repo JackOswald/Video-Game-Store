@@ -1,7 +1,10 @@
 import React from "react";
+//Import router
 import { Route, Switch } from "react-router-dom";
 import "./App.css";
+// Import bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
+// Import components
 import Navbar from "./components/Navbar";
 import ProductList from "./components/ProductList";
 import Details from "./components/Details";
