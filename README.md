@@ -21,8 +21,6 @@ Visit: https://jacks-video-game-store.netlify.com/
 
 # Screenshots
 
-The Main Menu of the Game Store
-
 Desktop view: 
 <img src="github_images/Image%201.png" width="1000">
 
